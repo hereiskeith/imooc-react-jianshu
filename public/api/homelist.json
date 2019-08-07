@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "data": {
+    "articleList": [{
+      "id": 1,
+      "diamond": 70.9,
+      "author": "婉xi",
+      "comment": 27,
+      "like": 305,
+      "title": "袁咏仪：有“污点”的她，是怎么得到幸福的？",
+      "content": "文/婉兮 图/网络 1 对曾被包养这件事，袁咏仪似乎不太避讳。 十多年前，她便在《志云饭局》中大大方方地承认，自己曾和一位有妇之夫交往。因为当...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/1812827-48225923e8681c79.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },
+      {
+        "id": 2,
+        "diamond": "8.0",
+        "author": "花好爱情",
+        "comment": 2,
+        "like": 30,
+        "title": "异地恋时，女人懂得用这些“手段”吊起男人好感，让爱情更长久！",
+        "content": "——异地恋时，女人懂得用这些“手段”吊起男人好感，让爱情更长久！ 每一段异地恋想要修成正果都是千辛万苦的。 用一句话来说就是，明明可以用拥抱、接...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/13518678-edfc46e3d7c357b4?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      }],
+    "recommendList": [{
+      "id":1,
+      "recommendUrl": "//cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+    },
+      {
+        "id":2,
+        "recommendUrl": "//cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id":3,
+        "recommendUrl": "//cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      },
+      {
+        "id":4,
+        "recommendUrl": "//cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      }],
+    "code": {
+      "mouseIn": false
+    },
+    "writers": {
+      "data":[
+        {"id":3678149,"slug":"b52ff888fd17","nickname":"简宝玉","avatar_source":"http://upload.jianshu.io/users/upload_avatars/3678149/b8a58e70-1126-48c9-97e2-8f21a31dfa94.png","total_likes_count":53555,"total_wordage":50722,"is_following_user":false},
+        {"id":4790772,"slug":"0f438ff0a55f","nickname":"茶点故事","avatar_source":"http://upload.jianshu.io/users/upload_avatars/4790772/388e473c-fe2f-40e0-9301-e357ae8f1b41.jpeg","total_likes_count":13831,"total_wordage":564808,"is_following_user":false},
+        {"id":1835526,"slug":"55b597320c4e","nickname":"行距版君","avatar_source":"http://upload.jianshu.io/users/upload_avatars/1835526/83d24e1a-0a0f-43f6-8a1d-289be6101e73.png","total_likes_count":54579,"total_wordage":522968,"is_following_user":false},
+        {"id":2587459,"slug":"82854a3500fc","nickname":"穿着prada挤地铁","avatar_source":"http://upload.jianshu.io/users/upload_avatars/2587459/9f4cfc0f-88b8-420c-b36e-9741e1191644.jpg","total_likes_count":4520,"total_wordage":339595,"is_following_user":false},
+        {"id":2558050,"slug":"d99a7dfae9e4","nickname":"阿栈","avatar_source":"http://upload.jianshu.io/users/upload_avatars/2558050/7761b285-2805-4534-9870-ba7dcc7538ec.jpg","total_likes_count":1459,"total_wordage":468709,"is_following_user":false},
+        {"id":3730494,"slug":"ffc565d738a3","nickname":"格列柯南","avatar_source":"http://upload.jianshu.io/users/upload_avatars/3730494/4a86a2a7-d5b9-47f1-969a-d8ef4711488b.jpg","total_likes_count":43513,"total_wordage":740196,"is_following_user":false},
+        {"id":3292545,"slug":"c4165d16d0ad","nickname":"北美之北","avatar_source":"http://upload.jianshu.io/users/upload_avatars/3292545/78f2855a-80fd-419a-9fb2-1aeed39690f0.png","total_likes_count":29113,"total_wordage":433553,"is_following_user":false},
+        {"id":4287007,"slug":"f666aefcc318","nickname":"晖宗聊绘画","avatar_source":"http://upload.jianshu.io/users/upload_avatars/4287007/b7b9c810-069e-4385-aec7-1823e94ee43d.jpg","total_likes_count":2397,"total_wordage":164222,"is_following_user":false},
+        {"id":3950651,"slug":"ca5b9d6f94dc","nickname":"三儿王屿","avatar_source":"http://upload.jianshu.io/users/upload_avatars/3950651/acfaa0ce-42fe-424a-b7c8-9a0136fb96ec.jpg","total_likes_count":3467,"total_wordage":164341,"is_following_user":false},
+        {"id":7416466,"slug":"e7dd0b3c7b70","nickname":"老沈1","avatar_source":"http://upload.jianshu.io/users/upload_avatars/7416466/fc1a1a0d-e3c7-4bca-9720-028c5c9914f3.jpg","total_likes_count":684,"total_wordage":134018,"is_following_user":false}
+      ],
+      "totalPage": 0,
+      "page": 0,
+      "getValue": false
+    }
+  }
+}

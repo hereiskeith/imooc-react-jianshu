@@ -8,9 +8,7 @@ export const HeaderWrapper = styled.div`
   border-bottom: 1px solid #f0f0f0;
   `;
 
-export const Logo = styled.a.attrs({
-  href: '/'
-})`
+export const Logo = styled.div`
   position: absolute;
   top:0;
   left:0;
@@ -63,7 +61,8 @@ export const NavItem = styled.div`
 export const NavSearchWrapper = styled.div`
   float: left;
   position: relative;
-  .iconfont {
+  margin-left: 30px;
+  .zoom {
     position: absolute;
     right: 2px;
     bottom: 5px;
@@ -86,7 +85,7 @@ export const NavSearch = styled.input.attrs({
   height: 38px;
   padding: 0 35px 0 20px;
   margin-top: 9px;
-  margin-left: 20px;
+
   box-sizing: border-box;
   border: none;
   outline: none;
@@ -109,13 +108,60 @@ export const NavSearch = styled.input.attrs({
   &.slide-exit-active {
     width: 160px;
   }
-
-
   &::placeholder {
     color: #999;
     font-family:  -apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
   }
 `;
+
+export const SearchInfo = styled.div`
+  position: absolute;
+  top: 58px;
+  left: 0;
+  width: 210px;
+  padding: 20px 20px 10px;
+  box-shadow: 0 0 8px rgba(0,0,0,.2);
+  background-color: white;
+`;
+export const SearchTitle = styled.div`
+  line-height: 20px;
+  font-size: 14px;
+  color: #969696;
+  margin-bottom: 10px;
+`;
+
+export const SearchSwitch = styled.span`
+  float: right;
+  font-size: 13px;
+  color: #969696; 
+  line-height: 20px;
+  :hover {
+    color: #333;
+    cursor: pointer;
+  }
+  .iconfont{
+    font-size: 12px;
+    display: block;
+    float: left;
+    margin-right: 2px;
+    transition: all .3s ease-in;
+    transform-origin: center center;
+  }
+`;
+
+export const SearchItem = styled.a`
+  display: block;
+  float: left;
+  margin-right: 12px;
+  margin-bottom: 15px;
+  padding: 0 5px;
+  font-size: 12px;
+  line-height: 20px;
+  color: #787878;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+`;
+
 export const Addition = styled.div`
   position: absolute;
   right: 0;
@@ -131,7 +177,7 @@ export const Button = styled.div`
   border: 1px solid #ea6f5a;
   margin-right: 20px;
   padding: 0 20px;
-  font-size: 15px
+  font-size: 15px;
   &.reg {
     color: #ea6f5a;
   }
